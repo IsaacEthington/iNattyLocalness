@@ -1,0 +1,7 @@
+Privacy Policy
+
+This extension does not collect, store, or transmit any personal information or user-identifiable data. All data used (such as observation totals) is stored locally in your browser's cache for performance purposes only. No data is sent to any external servers or third parties.
+
+We do not collect your browsing history, search data, or personal information. The extension operates entirely within the context of the iNaturalist.org website.
+
+If you have questions or concerns, feel free to contact the developer through the Chrome Web Store listing.
